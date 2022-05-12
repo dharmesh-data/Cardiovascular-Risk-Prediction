@@ -2,7 +2,7 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsmedicaldevices.com%2Fnews%2Fai-cardiovascular-risk-prediction%2F&psig=AOvVaw1SaHK1q5Yqg4-haWnHGy6j&ust=1652427216969000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCMrsi52fcCFQAAAAAdAAAAABAD)
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsmedicaldevices.com%2Fnews%2Fai-cardiovascular-risk-prediction%2F&psig=AOvVaw1SaHK1q5Yqg4-haWnHGy6j&ust=1652427216969000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCMrsi52fcCFQAAAAAdAAAAABAD)
 
 ## 📋 Summary
 This project mainly aims at developing a supervised machine learning model to predict the risk of heart disease in indiviuduals.

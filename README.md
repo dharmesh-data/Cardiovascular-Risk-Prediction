@@ -24,11 +24,11 @@ The result is a XGBoost model with almost 89% accuracy, 91% precision and 87% re
 <p>The order of execution of the program files is as follows:</p>
 
 <p><b>1) requiremets.txt</b></p>
-Use this command to install library: pip install -r requirements.txt
+<p>Use this command to install library: <b>pip install -r requirements.txt</b></p>
 
 
 <p><b>2)Cardiovascular_Risk_Prediction_Dharmesh_Patel.ipynb</b></p>
-After it run this file using jupyter notebook or google colaaboratery
+<p>After it run this file using jupyter notebook or google colaaboratery</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 

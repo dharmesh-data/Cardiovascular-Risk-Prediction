@@ -2,10 +2,11 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-![img](https://www.nsmedicaldevices.com/wp-content/uploads/sites/2/2021/02/shutterstock_1803082342.jpg)
 <p align="center"> 
 <img src="https://www.nsmedicaldevices.com/wp-content/uploads/sites/2/2021/02/shutterstock_1803082342.jpg" height="382px">
 </p>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## 📋 Summary
 This project mainly aims at developing a supervised machine learning model to predict the risk of heart disease in indiviuduals.
 The data contains 3390 rows and 17 columns. It is based on an ongoing study in Framingham, Massachusetts.

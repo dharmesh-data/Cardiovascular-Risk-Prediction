@@ -1,6 +1,8 @@
 <h1 align="center"> Cardiovascular Disease Risk Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## 📋 Summary
 This project mainly aims at developing a supervised machine learning model to predict the risk of heart disease in indiviuduals.
 The data contains 3390 rows and 17 columns. It is based on an ongoing study in Framingham, Massachusetts.
@@ -15,6 +17,18 @@ The project has been conducted in 5 steps:
 Engineered an important feature of pulse pressure using systolic and diastolic blood pressure.
 
 The result is a XGBoost model with almost 89% accuracy, 91% precision and 87% recall.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :clipboard: Execution Instruction</h2>
+<p>The order of execution of the program files is as follows:</p>
+
+<p><b>1) requiremets.txt</b></p>
+Use this command to install library: pip install -r requirements.txt
+
+
+<p><b>2)Cardiovascular_Risk_Prediction_Dharmesh_Patel.ipynb</b></p>
+After it run this file using jupyter notebook or google colaaboratery
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 

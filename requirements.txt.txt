@@ -1,8 +1,0 @@
-numpy
-pandas
-sklearn
-seaborn
-matplotlib
-XGBoost
-imbalanced-learn
-collections
